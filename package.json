@@ -1,0 +1,22 @@
+{
+  "name": "wvl-portfolio",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
+    "deploy": "next build && next export -o docs && git checkout -- docs/CNAME && git checkout -- docs/.nojekyll && git add docs && git commit -m \"chore: regen site\" && git push origin master",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export": "next export -o docs"
+  },
+  "dependencies": {
+    "api": "^1.0.0-8",
+    "next": "^4.2.1",
+    "nprogress": "^0.2.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.4.0",
+    "reactstrap": "^5.0.0-alpha.4",
+    "styled-jsx": "^2.2.1"
+  }
+}
