@@ -6,7 +6,7 @@ var bic = <a style={{'color': '#caa669'}} href='https://github.com/levinwil/User
 var aplWork = [
   <span>improving a spoof image detector F1 score from 95% to 99%. I did so by using a custom VGG-based feature extractor network, image augmentation, 10-fold cross-validation, and transfer learning with an SVM</span>,
   <span>designing a {bic} </span>,
-  <span>parallelizing and distributing a previously sequential network detection detetion algorithm on graphs of more than 2 million vertices. I achieved linear speedup with respect to number of processors using Scala and Spark</span>,
+  <span>parallelizing and distributing a previously sequential network detetion algorithm on graphs of more than 2 million vertices. I achieved linear speedup with respect to number of processors using Scala and Spark</span>,
   <span>presenting the results of my code to a group of more than 30 executives, leading to the incorporation of it into the government code-based</span>
 ]
 var aplLearned = [
