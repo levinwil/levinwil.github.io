@@ -6,7 +6,7 @@ var distill = <a style={{'color': '#B82D3E'}} href='https://papers.nips.cc/paper
 
 var pscWork = [
   <span>implementing an object detection metric infrastructure with end-to-end testing</span>,
-  <span>improving object detection precision by .1 at all thresholds without sacrificing recall by designing a novel loss function & implementing {anchor}</span>,
+  <span>improving object detector mAP from .5 to .67 while speeding up inference from 5.6 to 8.9 FPS by designing a novel loss function & implementing {anchor}</span>,
   <span>developing a training platform for hot-swapping and configuring YOLO, FRCNN, SSD, and RetinaNet object detection meta-architectures with end-to-end testing</span>,
 ]
 var pscLearned = [
