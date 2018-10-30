@@ -1,7 +1,7 @@
 import School from '../components/School'
 import Layout from '../components/Layout'
 
-var pipeline = <a style={{'color': '#caa669'}} href='https://github.com/NeuroDataDesign/pan-synapse-f16s17'>pipeline</a>
+var pipeline = <a style={{'color': '#FFBD4F'}} href='https://github.com/NeuroDataDesign/pan-synapse-f16s17'>pipeline</a>
 
 var jhuReceived = [
   <span>4.0 Grade Point Average on a 4.0 Scale</span>,

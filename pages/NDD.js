@@ -1,7 +1,7 @@
 import Work from '../components/Work'
 import Layout from '../components/Layout'
 
-var pipeline = <a style={{'color': '#caa669'}} href='https://github.com/NeuroDataDesign/pan-synapse-f16s17'>pipeline</a>
+var pipeline = <a style={{'color': '#FFBD4F'}} href='https://github.com/NeuroDataDesign/pan-synapse-f16s17'>pipeline</a>
 
 var nddWork = [
   <span>developing an analytical computer vision {pipeline} to segment synapses in Array Tomography NeuroImages that was presented at NIPS 2017</span>,

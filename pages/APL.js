@@ -1,7 +1,7 @@
 import Work from '../components/Work'
 import Layout from '../components/Layout'
 
-var bic = <a style={{'color': '#caa669'}} href='https://github.com/levinwil/User-Friendly-Image-Classifier'>user-friendly binary image classifier</a>
+var bic = <a style={{'color': '#FFBD4F'}} href='https://github.com/levinwil/User-Friendly-Image-Classifier'>user-friendly binary image classifier</a>
 
 var aplWork = [
   <span>improving a spoof image detector F1 score from 95% to 99%. I did so by implementing a Siamese network with custom image augmentation, 10-fold cross-validation, and transfer learning with an SVM</span>,

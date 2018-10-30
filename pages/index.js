@@ -7,20 +7,20 @@ import List from '../components/List'
 import Img from '../components/Img'
 
 // links
-var powerlift = <a style={{color: '#3CBED7'}} href='http://usapl.liftingdatabase.com/lifters-view?id=17117'>powerlift</a>
-var music = <a style={{color: '#80DB9E'}} href='https://www.youtube.com/channel/UC-ZyuScXM7VD_iEYuJHfINA?view_as=subscriber'>music</a>
-var implement = <a style={{color: '#F98866'}} href='http://github.com/levinwil'>implement</a>
-var APL = <a style={{color: '#caa669'}} href='http://www.jhuapl.edu/'>JHU Applied Physics Lab</a>
-var PSC = <a style={{color: '#3CBED7'}} href='https://www.progeny.net/'>Progeny Systems Corporation</a>
-var facebook = <a style={{color: '#f4a442'}} href='https://www.facebook.com/willy.levine'>Facebook</a>
-var linkedin = <a style={{color: '#007BB6'}} href='https://www.linkedin.com/in/will-levine-63b986123/'>LinkedIn</a>
-var email = <a style={{color: '#000000'}} href='mailto:will.levine0@gmail.com'>Email</a>
-var github = <a style={{color: '#F98866'}} href='http://github.com/levinwil'>Github</a>
-var resume = <a style={{color: '#3CBED7'}} href='../static/resume.pdf'>here</a>
-var NDD = <a style={{color: '#80DB9E'}} href='https://neurodata.io/'>Neuro Data Design</a>
-var PySight = <a style={{color: '#F98866'}} href='https://devpost.com/software/pysight'>PySight</a>
-var UI = <a style={{color: '#caa669'}} href='https://devpost.com/software/u-eye'>U-Eye</a>
-var DL = <a style={{color: '#3CBED7'}} href='https://www.deeplearning.ai//'>deeplearning.ai's</a>
+var powerlift = <a style={{color: '#FFBD4F'}} href='http://usapl.liftingdatabase.com/lifters-view?id=17117'>powerlift</a>
+var music = <a style={{color: '#FFBD4F'}} href='https://www.youtube.com/channel/UC-ZyuScXM7VD_iEYuJHfINA?view_as=subscriber'>music</a>
+var implement = <a style={{color: '#FFBD4F'}} href='http://github.com/levinwil'>implement</a>
+var APL = <a style={{color: '#FFBD4F'}} href='http://www.jhuapl.edu/'>JHU Applied Physics Lab</a>
+var PSC = <a style={{color: '#FFBD4F'}} href='https://www.progeny.net/'>Progeny Systems Corporation</a>
+var facebook = <a style={{color: '#FFBD4F'}} href='https://www.facebook.com/willy.levine'>Facebook</a>
+var linkedin = <a style={{color: '#FFBD4F'}} href='https://www.linkedin.com/in/will-levine-63b986123/'>LinkedIn</a>
+var email = <a style={{color: '#FFBD4F'}} href='mailto:will.levine0@gmail.com'>Email</a>
+var github = <a style={{color: '#FFBD4F'}} href='http://github.com/levinwil'>Github</a>
+var resume = <a style={{color: '#FFBD4F'}} href='../static/resume.pdf'>here</a>
+var NDD = <a style={{color: '#FFBD4F'}} href='https://neurodata.io/'>Neuro Data Design</a>
+var PySight = <a style={{color: '#FFBD4F'}} href='https://devpost.com/software/pysight'>PySight</a>
+var UI = <a style={{color: '#FFBD4F'}} href='https://devpost.com/software/u-eye'>U-Eye</a>
+var DL = <a style={{color: '#FFBD4F'}} href='https://www.deeplearning.ai//'>deeplearning.ai's</a>
 
 
 
