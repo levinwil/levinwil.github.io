@@ -36,7 +36,7 @@ export default class Layout extends React.Component {
           html, body {
             padding: 0px;
             margin: 0px;
-            background: #2d6091;
+            background: #202020	;
             color: white;
             width: 100% !important;
             height: 100% !important;
@@ -71,7 +71,7 @@ export default class Layout extends React.Component {
             clear:left;
             float:left;
             margin-bottom: 5px;
-            background: #4FA9FF;
+            background: #3D0B0C;
             border-radius: 1%;
           }
 

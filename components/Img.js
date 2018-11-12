@@ -7,7 +7,7 @@ const Img = ({src}) => (
         text-align: left;
       }
       img {
-        max-width: 40%;
+        max-width: 60%;
       }
     `}</style>
   </div>
